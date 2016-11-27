@@ -1,0 +1,38 @@
+body,html{
+    height: 100%;
+    margin:0;
+}
+body{
+    background-image: url("../image/light.JPG"); /*添加图片路径*/
+    background-size: 1853px 740px;;
+    background-repeat: no-repeat;
+}
+.login
+{
+    background-color: rgba(225,225,225,0.6);
+    margin: auto;
+    height:350px;
+    width: 500px;
+    position:relative;
+    top: 150px;
+    text-align:center;
+    border: #ffffff;
+
+}
+h1{
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    border-bottom:white 3px solid;
+}
+input {
+    height: 30px;
+    width: 300px;
+    margin: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+button{
+    height: 35px;
+    width:80px;
+}
